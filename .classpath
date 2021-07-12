@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="extend"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.6.2.jar"/>
+	<classpathentry kind="lib" path="lib/json-20140107.jar"/>
+	<classpathentry kind="lib" path="lib/json-path-0.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/json-smart-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/org-apache-commons-codec.jar"/>
+	<classpathentry kind="lib" path="lib/swingx.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections-3.0.jar"/>
+	<classpathentry kind="lib" path="lib/BOLDocumentoJDK142.jar"/>
+	<classpathentry kind="lib" path="lib/BOLFoliosJDK142.jar"/>
+	<classpathentry kind="lib" path="lib/BOLLibroJDK142.jar"/>
+	<classpathentry kind="lib" path="lib/DTEBoxClienteJDK142.jar"/>
+	<classpathentry kind="lib" path="lib/DTELibroCVJDK142.jar"/>
+	<classpathentry kind="lib" path="lib/DTELibroGDJDK142.jar"/>
+	<classpathentry kind="lib" path="lib/LtXmlLib12.jar"/>
+	<classpathentry kind="lib" path="lib/bcpkix-jdk14-148.jar"/>
+	<classpathentry kind="lib" path="lib/bcprov-ext-jdk14-148.jar"/>
+	<classpathentry kind="lib" path="lib/IDAPDF417.jar"/>
+	<classpathentry kind="lib" path="lib/IDautomationPDFE.jar"/>
+	<classpathentry kind="lib" path="lib/DTETimbreJDK14.jar"/>
+	<classpathentry kind="lib" path="lib/DTEDocumentoJDK142.jar"/>
+	<classpathentry kind="lib" path="lib/RindegastosAPI.jar"/>
+	<classpathentry kind="lib" path="lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/postgresql-42.2.18.jre7.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_80"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/adempiere-3.8.0"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
